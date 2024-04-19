@@ -1240,10 +1240,17 @@
     webfontloader "^1.6.28"
     zod "^3.22.4"
 
-"@blocksuite/global@0.14.0-canary-202404190901-e1635aa", "@blocksuite/global@canary":
+"@blocksuite/global@0.14.0-canary-202404190901-e1635aa":
   version "0.14.0-canary-202404190901-e1635aa"
   resolved "https://registry.yarnpkg.com/@blocksuite/global/-/global-0.14.0-canary-202404190901-e1635aa.tgz#faab7aa463c88003e6249a199f2089f290a6a9cc"
   integrity sha512-C74CDQP5eWMRfgRAttePH67qBSVe/lfcae19pTUE5qVDZPHvmzGy0tGr7bi+7T1AHtFdaRqXjplLoK4tQT5cSg==
+  dependencies:
+    zod "^3.22.4"
+
+"@blocksuite/global@^0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@blocksuite/global/-/global-0.13.0.tgz#c4807982ace4fdb8c6b97ad9afbfe172a3c9d0d7"
+  integrity sha512-HSRm6umCKTHf7X2A99mWDnNBTnZQ1ebusNSKIgv0ZkUhRbltCVw00Ndd1k94AyriRClr545x+4WQPmOiePiJ/w==
   dependencies:
     zod "^3.22.4"
 
