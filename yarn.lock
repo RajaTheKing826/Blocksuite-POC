@@ -1247,10 +1247,10 @@
   dependencies:
     zod "^3.22.4"
 
-"@blocksuite/global@^0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@blocksuite/global/-/global-0.13.0.tgz#c4807982ace4fdb8c6b97ad9afbfe172a3c9d0d7"
-  integrity sha512-HSRm6umCKTHf7X2A99mWDnNBTnZQ1ebusNSKIgv0ZkUhRbltCVw00Ndd1k94AyriRClr545x+4WQPmOiePiJ/w==
+"@blocksuite/global@canary":
+  version "0.14.0-canary-202404191836-0a00322"
+  resolved "https://registry.yarnpkg.com/@blocksuite/global/-/global-0.14.0-canary-202404191836-0a00322.tgz#b3d503222dfecddced30ad47be29f5be3bed821b"
+  integrity sha512-j+VZITPTGramUt03nzjvieqFg4vNoqD3kWiHYBMAUTfd9QOmE7DqjDK3c5ux2adTT5FjFwWRD3nVxxHbrwfMbQ==
   dependencies:
     zod "^3.22.4"
 

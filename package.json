@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@blocksuite/blocks": "canary",
-    "@blocksuite/global": "^0.13.0",
+    "@blocksuite/global": "canary",
     "@blocksuite/presets": "canary",
     "@blocksuite/store": "canary",
     "@blocksuite/sync": "canary",
